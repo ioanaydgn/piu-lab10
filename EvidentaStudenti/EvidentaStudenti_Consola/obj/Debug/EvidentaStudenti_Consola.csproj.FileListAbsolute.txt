@@ -1,0 +1,13 @@
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_Consola\bin\Debug\EvidentaStudenti.exe.config
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_Consola\bin\Debug\EvidentaStudenti.exe
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_Consola\bin\Debug\EvidentaStudenti.pdb
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_Consola\bin\Debug\LibrarieModele.dll
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_Consola\bin\Debug\NivelStocareData.dll
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_Consola\bin\Debug\LibrarieModele.pdb
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_Consola\bin\Debug\NivelStocareData.pdb
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_Consola\obj\Debug\EvidentaStudenti_Consola.csproj.AssemblyReference.cache
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_Consola\obj\Debug\EvidentaStudenti_Consola.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_Consola\obj\Debug\EvidentaStudenti_Consola.csproj.CoreCompileInputs.cache
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_Consola\obj\Debug\EvidentaStudenti_Consola.csproj.CopyComplete
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_Consola\obj\Debug\EvidentaStudenti.exe
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_Consola\obj\Debug\EvidentaStudenti.pdb

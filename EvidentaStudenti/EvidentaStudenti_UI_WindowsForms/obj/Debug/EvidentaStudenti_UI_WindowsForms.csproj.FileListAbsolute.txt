@@ -1,0 +1,17 @@
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\bin\Debug\EvidentaStudenti_UI_WindowsForms.exe.config
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\bin\Debug\EvidentaStudenti_UI_WindowsForms.exe
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\bin\Debug\EvidentaStudenti_UI_WindowsForms.pdb
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\bin\Debug\LibrarieModele.dll
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\bin\Debug\NivelStocareData.dll
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\bin\Debug\LibrarieModele.pdb
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\bin\Debug\NivelStocareData.pdb
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\obj\Debug\EvidentaStudenti_UI_WindowsForms.csproj.AssemblyReference.cache
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\obj\Debug\EvidentaStudenti_UI_WindowsForms.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\obj\Debug\EvidentaStudenti_UI_WindowsForms.Form1.resources
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\obj\Debug\EvidentaStudenti_UI_WindowsForms.Properties.Resources.resources
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\obj\Debug\EvidentaStudenti_UI_WindowsForms.csproj.GenerateResource.cache
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\obj\Debug\EvidentaStudenti_UI_WindowsForms.csproj.CoreCompileInputs.cache
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\obj\Debug\EvidentaStudenti_UI_WindowsForms.csproj.CopyComplete
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\obj\Debug\EvidentaStudenti_UI_WindowsForms.exe
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\obj\Debug\EvidentaStudenti_UI_WindowsForms.pdb
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\EvidentaStudenti_UI_WindowsForms\obj\Debug\EvidentaStudenti_UI_WindowsForms.Form2.resources

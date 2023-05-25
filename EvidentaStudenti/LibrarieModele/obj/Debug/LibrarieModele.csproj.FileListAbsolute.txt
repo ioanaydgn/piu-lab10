@@ -1,0 +1,6 @@
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\LibrarieModele\bin\Debug\LibrarieModele.dll
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\LibrarieModele\bin\Debug\LibrarieModele.pdb
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\LibrarieModele\obj\Debug\LibrarieModele.dll
+\\Mac\Home\Music\AplicatieDemoPIU\EvidentaStudenti\LibrarieModele\obj\Debug\LibrarieModele.pdb
